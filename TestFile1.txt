@@ -1,3 +1,10 @@
 hi this is first projrammer modified..
+<<<<<<< HEAD
 this is divya
 this is priya
+=======
+this is first branch created by today i.e., test_06042017
+this is divya123
+this is keerthi000
+
+>>>>>>> ca68341dbc69bf59e90b7f4816db38a0603c4341
